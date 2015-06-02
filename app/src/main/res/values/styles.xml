@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+        <item name="android:colorPrimary">#2196F3</item>
+        <item name="android:textColorPrimary">#FFF</item>
+        <item name="android:colorPrimaryDark">#1565C0</item>
+        <item name="android:colorButtonNormal">#2196F3</item>
+    </style>
+
+    <style name="ButtonTheme">
+        <item name="android:layout_height">60dp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:textColor">#FFF</item>
+    </style>
+</resources>
